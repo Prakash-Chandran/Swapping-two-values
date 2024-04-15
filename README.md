@@ -19,7 +19,8 @@ Print both the values it would be interchanged
 End the program
 ## PROGRAM:
 ````
-'''swapping of two values
+'''
+swapping of two values
 Developed by: Prakash C
 Register number:212223240122
 '''
@@ -32,7 +33,7 @@ print("Swapped values are:",surya,vijay)
 ````
 ## OUTPUT:
 
-![Screenshot 2024-04-15 133554](https://github.com/Prakash-Chandran/Swapping-two-values/assets/147120899/337ee214-f34d-4dc0-82b7-a3552caf5b88)
+![Screenshot 2024-04-15 135914](https://github.com/Prakash-Chandran/Swapping-two-values/assets/147120899/70460e66-16f1-4cc3-8f51-c398fba2d7ae)
 
 
 ## RESULT:
